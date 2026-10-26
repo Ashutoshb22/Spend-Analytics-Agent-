@@ -1,0 +1,11 @@
+supplier_name,category,business_unit,region,invoice_date,qty,unit_price,amount,currency,doc_type,doc_number,contract_id,contracted_unit_price,is_preferred
+Dell Technologies,IT Hardware,BU-West,Americas,2026-03-14,10,1200,12000,USD,AP,INV-1001,C-9001,1150,true
+Contoso Cloud,IT Software,BU-East,Americas,2026-05-02,50,30,1500,USD,AP,INV-1002,,,false
+Staples,Office Supplies,BU-West,Americas,2026-06-11,200,3.5,700,USD,AP,INV-1003,,,false
+DHL,Freight & Logistics,BU-North,EMEA,2025-12-20,1,,4200,USD,AP,INV-1004,C-9002,,true
+Acme Consulting,Consulting,BU-East,Americas,2026-02-28,80,150,12000,USD,PO,PO-2001,,,false
+Dell Technologies,IT Hardware,BU-East,Americas,2026-04-19,5,1300,6500,USD,AP,INV-1005,C-9001,1150,true
+Globex Utilities,Utilities,BU-North,EMEA,2026-01-15,1,,3300,USD,AP,INV-1006,,,false
+HP Inc.,IT Hardware,BU-West,Americas,2026-06-30,8,900,7200,USD,AP,INV-1007,,,false
+Staples,Office Supplies,BU-East,Americas,2026-05-22,120,4.0,480,USD,AP,INV-1008,,,false
+Acme Consulting,Consulting,BU-West,Americas,2026-06-05,40,160,6400,USD,PO,PO-2002,,,false
